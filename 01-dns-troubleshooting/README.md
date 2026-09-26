@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lab demonstrates practical DNS troubleshooting on a Windows 11 system using built-in Windows networking tools.
+This lab demonstrates practical DNS troubleshooting on a Windows 11 system using built in Windows networking tools.
 
 The objective was to determine whether connectivity problems were related to general network connectivity or DNS name resolution.
 
