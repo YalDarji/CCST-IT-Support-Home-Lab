@@ -23,3 +23,11 @@ Practical troubleshooting of Windows printing and print queue issues.
 ### 05 - Security Troubleshooting
 
 Basic endpoint security investigation and incident response exercises.
+
+### 06 - Real-World Website Support
+
+A documented real-world website support task covering issue investigation, troubleshooting, change implementation, testing, and resolution verification, including AI-assisted troubleshooting with CludAI.
+
+### 07 - Windows Troubleshooting
+
+Practical Windows troubleshooting using built-in system and support tools.
