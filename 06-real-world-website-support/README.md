@@ -1,12 +1,11 @@
-# Real-World Website Support
+# My Weekends At Home Real-World Website Support
 
 ## Overview
+A former client contacted me about a broken gallery and GET YOUR QUOTE form on his dance floor rental website. He had spoken with several developers, but the cost of fixing it was too high for his business at the time.
 
-This lab documents a real-world website support task completed for a previous client/contact.
+Because we had a good connection from our previous work together, I offered to help free of charge. I investigated the issue, used CludAI to help identify the bug, implemented the fix, and tested the website to make sure everything worked properly.
 
-The task involved investigating a website issue, identifying the cause, applying an appropriate change, and testing the website after the change.
-
-The purpose of this lab is to demonstrate practical IT support skills beyond a home lab environment, including problem investigation, troubleshooting, communication, testing, documentation, and resolution verification.
+The gallery is now organised into tabs and the GET YOUR QUOTE form works without the previous layout issues.
 
 ## Support Scenario
 
