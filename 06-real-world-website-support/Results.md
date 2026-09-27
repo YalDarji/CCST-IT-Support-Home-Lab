@@ -33,15 +33,18 @@ I provided the support **free of charge** because of our previous professional r
 
 ## Evidence
 
-Evidence screenshots are stored in the `screenshots/` directory.
+Eight screenshots document the troubleshooting process from the original issues through to the final verification.
 
-| **Evidence**           | **Purpose**                    |
-| ---------------------- | ------------------------------ |
-| `01-before.png`        | Website before troubleshooting |
-| `02-investigation.png` | Investigation evidence         |
-| `03-fix.png`           | Relevant changes               |
-| `04-after.png`         | Website after the fix          |
-| `05-verification.png`  | Final testing                  |
+| **Evidence**                | **Purpose**                                |
+| --------------------------- | ------------------------------------------ |
+| `01-before-gallery.png`     | Gallery before troubleshooting             |
+| `02-before-form.png`        | Get Your Quote form before troubleshooting |
+| `03-investigation.png`      | Investigation evidence                     |
+| `04-claudai-assistance.png` | CludAI-assisted troubleshooting            |
+| `05-code-fix.png`           | Relevant changes being implemented         |
+| `06-gallery-after.png`      | Gallery after the fix                      |
+| `07-form-after.png`         | Get Your Quote form after the fix          |
+| `08-final-verification.png` | Final website verification                 |
 
 ## Support Method
 
