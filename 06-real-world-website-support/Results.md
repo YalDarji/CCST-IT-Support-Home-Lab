@@ -2,37 +2,46 @@
 
 ## Issue
 
-A website issue was reported by a previous client/contact and required investigation and a corrective change.
+A previous client contacted me about problems with the website gallery and **Get Your Quote** form on his dance floor rental business website.
 
 ## Investigation
 
-The issue was investigated by reproducing the reported behaviour and examining the relevant website area/configuration.
+I investigated the reported issues and examined the relevant website behaviour and code.
 
-CludAI was used during the investigation to help identify possible causes and troubleshooting directions. The suggestions were reviewed and then validated through direct testing.
+I also used **CludAI** to help identify possible causes and troubleshooting directions. I reviewed the suggestions and tested the changes myself.
 
 ## Action Taken
 
-The relevant website change was implemented after the cause had been identified.
+I identified the relevant issues and implemented the required changes.
+
+The gallery was reorganised into tabs, and the **Get Your Quote** form was corrected.
 
 ## Verification
 
-The website was tested after the change to confirm whether the reported behaviour had been corrected.
+I tested the website after the changes to confirm that:
+
+* The gallery displayed correctly
+* The tabs worked as expected
+* The Get Your Quote form worked correctly
+* The previous layout issues were no longer present
 
 ## Outcome
 
-The website behaviour was checked after the fix and the result was documented as part of the support process.
+The website was successfully tested after the changes, and the client was happy with the result.
+
+I provided the support **free of charge** because of our previous professional relationship and to help the business during a difficult time.
 
 ## Evidence
 
 Evidence screenshots are stored in the `screenshots/` directory.
 
-| Evidence | Purpose |
-|---|---|
-| `01-before.png` | Shows the reported behaviour before troubleshooting |
-| `02-investigation.png` | Shows investigation evidence |
-| `03-fix.png` | Shows the relevant change |
-| `04-after.png` | Shows the website after the change |
-| `05-verification.png` | Shows final verification |
+| **Evidence**           | **Purpose**                    |
+| ---------------------- | ------------------------------ |
+| `01-before.png`        | Website before troubleshooting |
+| `02-investigation.png` | Investigation evidence         |
+| `03-fix.png`           | Relevant changes               |
+| `04-after.png`         | Website after the fix          |
+| `05-verification.png`  | Final testing                  |
 
 ## Support Method
 
@@ -40,4 +49,4 @@ Evidence screenshots are stored in the `screenshots/` directory.
 
 ## Note
 
-This documentation intentionally avoids private client information, credentials, and other sensitive details.
+This documentation intentionally avoids private client information, credentials, API keys, and other sensitive details.
