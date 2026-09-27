@@ -1,24 +1,25 @@
 # My Weekends At Home Real-World Website Support
 
 ## Overview
-A former client contacted me about a broken gallery and GET YOUR QUOTE form on his dance floor rental website. He had spoken with several developers, but the cost of fixing it was too high for his business at the time.
 
-Because we had a good connection from our previous work together, I offered to help free of charge. I investigated the issue, used CludAI to help identify the bug, implemented the fix, and tested the website to make sure everything worked properly.
+A former client contacted me about a broken gallery and **Get Your Quote** form on his dance floor rental website. He had spoken with several developers, but the cost of fixing it was too high for his business at the time.
 
-The gallery is now organised into tabs and the GET YOUR QUOTE form works without the previous layout issues.
+Because we had a good connection from our previous work together, I offered to help **free of charge**. I investigated the issue, used CludAI to help investigate the bug, implemented the fix, and tested the website to make sure everything worked properly.
+
+The gallery is now organised into tabs, and the **Get Your Quote** form works without the previous layout issues.
 
 ## Support Scenario
 
-A previous client/contact requested help with a problem affecting their website.
+A previous client contacted me for help with problems affecting their website.
 
-The support process followed a structured troubleshooting approach:
+The troubleshooting process was:
 
 1. Understand the reported problem
 2. Reproduce and investigate the issue
-3. Inspect the relevant website behaviour/configuration
+3. Inspect the relevant website behaviour and code
 4. Identify the likely cause
-5. Apply the required change
-6. Test the website after the change
+5. Apply the fix
+6. Test the website
 7. Confirm the issue was resolved
 8. Document the work and outcome
 
@@ -26,68 +27,68 @@ The support process followed a structured troubleshooting approach:
 
 During the investigation, I used **CludAI** as an AI-assisted troubleshooting resource to help analyse the problem and identify possible causes.
 
-The AI assistance was used as a support tool rather than as a replacement for troubleshooting. I reviewed the suggestions, applied the relevant changes, and manually tested the website to verify the result.
+I reviewed the suggestions, applied the relevant changes myself, and manually tested the website to verify the result.
 
 ## Approach
 
 ### 1. Gather Information
 
-I first established what the user was experiencing and what part of the website was affected.
+I first established what the user was experiencing and which parts of the website were affected.
 
 ### 2. Investigate
 
-I inspected the website and relevant configuration/code to narrow down the source of the problem.
+I inspected the website and relevant code to narrow down the source of the problem.
 
 ### 3. Identify the Cause
 
-The investigation was used to separate the reported symptom from the underlying cause.
+I investigated the reported symptoms to determine the likely cause.
 
 ### 4. Apply the Fix
 
-The required website change was implemented carefully, with the goal of correcting the reported issue without introducing unrelated changes.
+I implemented the required changes carefully without making unrelated changes.
 
 ### 5. Validate
 
-The website was tested after the change to confirm that the reported behaviour had been corrected.
+I tested the website after the changes to confirm the reported issues were resolved.
 
 ### 6. Document
 
-The problem, investigation process, resolution, and verification were documented as part of this support record.
+I documented the problem, troubleshooting process, resolution, and final result.
 
 ## Evidence
 
-Screenshots should be stored in the `screenshots/` directory.
+Screenshots are stored in the `screenshots/` directory.
 
 Recommended evidence:
 
-- `01-before.png` - Website behaviour before the fix
-- `02-investigation.png` - Relevant investigation or configuration evidence
-- `03-fix.png` - Relevant change being made
-- `04-after.png` - Website after the fix
-- `05-verification.png` - Final testing/verification
+* `01-before.png` - Website before the fix
+* `02-investigation.png` - Investigation evidence
+* `03-fix.png` - Relevant changes
+* `04-after.png` - Website after the fix
+* `05-verification.png` - Final testing
 
 > Personal information, credentials, private client information, API keys, and other sensitive data should not be included in screenshots.
 
 ## Result
 
-The website was tested after the change to verify the reported issue.
+The website was tested after the changes and the reported issues were resolved.
 
-The final result and observations are recorded in [Results.md](Results.md).
+The final results are documented in [Results.md](https://github.com/YalDarji/CCST-IT-Support-Home-Lab/blob/main/06-real-world-website-support/Results.md).
 
 ## Skills Demonstrated
 
-- Real-world technical support
-- Problem investigation
-- Website troubleshooting
-- Basic web technology troubleshooting
-- Root-cause investigation
-- Change implementation
-- Functional testing
-- Issue verification
-- Technical documentation
-- User-focused problem solving
-- AI-assisted troubleshooting with independent validation
+* Real-world technical support
+* Problem investigation
+* Website troubleshooting
+* Basic web technology troubleshooting
+* Root-cause investigation
+* Change implementation
+* Functional testing
+* Issue verification
+* Technical documentation
+* User-focused problem solving
+* AI-assisted troubleshooting
 
 ## Key Takeaway
 
-This exercise demonstrates that IT support is not limited to diagnosing Windows or network problems. It also involves understanding the user's reported issue, investigating unfamiliar systems, using appropriate troubleshooting resources, making controlled changes, testing the outcome, and documenting the resolution.
+This project demonstrates my ability to investigate a real user problem, troubleshoot an unfamiliar system, use available tools, implement a fix, test the result, and document the outcome.
